@@ -2,5 +2,5 @@
 
 
 
-<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/830129144476991508/943871781956100168/photofunky.gif"><img 
+<h1 align="center"><a target="_blank" rel="noopener noreferrer" href="https://cdn.discordapp.com/attachments/1131722428083609650/1137784810752983071/f5f27448c036af645c27467c789ad759.gif"><img 
 src="https://cdn.discordapp.com/attachments/1131722428083609650/1137784810752983071/f5f27448c036af645c27467c789ad759.gif" data-canonical-src="https://steamuserimages-a.akamaihd.net/ugc/939465072079337699/A44A2D24BB987267F26C56440F51A0B468481222/" style="max-width: 100%;"></a>
